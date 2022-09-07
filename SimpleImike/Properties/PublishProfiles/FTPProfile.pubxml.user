@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABqacysO4F0OO5THOKNYxbgAAAAACAAAAAAAQZgAAAAEAACAAAAC4QRX/OWwmtvzkeGHT8FgvyfrdX7rk9FcoboNqV3lqywAAAAAOgAAAAAIAACAAAACKgvEG6kZV0E2JIOXrG05indC12AwlwUCc7I0ejNpYDiAAAAA0LF+MLq+IjmSSisNotHV8X53z/41lOxmwFRPKUZbgg0AAAAA731I185EN74x8XYgYnoQaIg8NgqPZ4yTc5hfw0z8PblU3dLTcEAPHKVM5y044kncFPKhNMSlGsiWj0ubnSM39</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp:myASP.NET/zombimacska-001-site1</_PublishTargetUrl>
+    <History>False|2022-03-15T23:43:14.2161035Z;</History>
+  </PropertyGroup>
+</Project>

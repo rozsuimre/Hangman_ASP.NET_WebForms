@@ -1,0 +1,6 @@
+﻿Tehát a következő elemeket kell tárolni:
+szöveg:
+1. sor: - a kitalált lyukas szöveg
+2. sor - kitalálandó szó 
+3. sor: - a felhasználó tippjei / betűk
+4. sor: - pontszám
